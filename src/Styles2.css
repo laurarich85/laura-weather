@@ -1,0 +1,43 @@
+.card {
+  position: relative;
+  background-color: #f0f8ff;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: fff;
+}
+
+button {
+  background-color: #3b8cd0;
+  color: aliceblue;
+  border-radius: 25px;
+}
+
+.search {
+  padding: 20px;
+}
+
+h1 {
+  color: rgb(22, 24, 49);
+  text-align: center;
+  padding: 10px;
+  font-family: "Poppins", sans-serif;
+}
+
+.Mon,
+.Tues,
+.Wed,
+.Thurs,
+.Fri {
+  background-color: white;
+  padding: 25px 50px;
+  border-radius: 15px;
+  border-color: #00000;
+  border-width: 3px;
+  border-style: solid;
+}
+
+footer {
+  text-align: right;
+}
